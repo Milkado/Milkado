@@ -5,7 +5,7 @@
 - :books: Bachelor of Information Systems
 - :office: Full Stack Developer at <a href="http://cityconnect.com.br" target="_blank">City Connect</a>
 - :scroll: I write code and books
-- :video_game: Most of my free time goes to Destiny 2 and Maplestory 
+- :video_game: Most of my free time goes to FFXIV 
 
 ## Skills :computer:
 

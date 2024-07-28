@@ -26,9 +26,12 @@
 
 ## Git Stats
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Milkado&show_icons=true&theme=dracula&count_private=true&hide=issues" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milkado&layout=compact&theme=dracula">
     </a>
 </p>
 

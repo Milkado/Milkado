@@ -1,5 +1,5 @@
 # 💫 About Me:
-:office: Mid-Level BackEnd Developer at City Connect<br>:scroll: Deep diving into Go.<br>:seedling: Learning Software Architecture and Rust because it's fun.<br>:joystick: I read, lift, write and cook.
+:office: Mid-Level BackEnd Developer<br>:scroll: Deep diving into Go.<br>:seedling: Learning Software Architecture and Rust because it's fun.<br>:joystick: I read, lift, write and cook.
 
 
 ## 🌐 Socials:
